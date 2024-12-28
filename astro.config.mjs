@@ -9,5 +9,5 @@ export default defineConfig({
   },
   integrations: [tailwind()],
   site: 'https://ranajollanar.github.io',
-  base : '/me'
+  base : '/XR'
 });

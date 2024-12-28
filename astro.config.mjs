@@ -9,6 +9,5 @@ export default defineConfig({
   },
   integrations: [tailwind()],
   site: 'https://ranajollanar.github.io',
-  base: '/ranajollanar.github.io',
-
+  base: '/MyPortfolio',
 });
